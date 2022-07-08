@@ -1,4 +1,4 @@
-# Compiler
+# Compiler for Python
 This is a simple compiler for Python to learn more about building compilers and for practicing my C/C++ skills. Hope you like it :)
 
 # Compiler Parts and their Implementation:
