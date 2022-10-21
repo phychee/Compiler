@@ -1,5 +1,5 @@
 # Compiler
-This is a simple compiler for Python to learn more about building compilers and for practicing my C/C++ skills. Hope you like it :)
+This is a simple interpreter for Python to learn more about building compilers and for practicing my C/C++ skills. Hope you like it :)
 
 # Compiler Parts and their Implementation:
 
